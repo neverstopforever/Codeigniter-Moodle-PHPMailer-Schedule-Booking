@@ -1,0 +1,50 @@
+<?php
+
+/*
+ * Spanish language
+ */
+
+// Terms of use
+
+$lang['terms_of_use_access_restirictions'] = 'RESTRICCIONES DE ACCESO';
+$lang['terms_of_use_access_restirictions_text'] = 'La información que se encuentra en esta página Web (“Sitio”) no podrá ser usada en ningún país o región, o por ninguna persona donde tal uso constituya una violación de la ley. Si éste es su caso no podrá utilizar ninguna información en este Sitio.';
+$lang['terms_of_use_terms_of_use'] = 'CONDICIONES DE USO';
+$lang['terms_of_use_terms_of_use_text'] = 'Le invitamos a leer estos términos y condiciones (“Condiciones de uso”) cuidadosamente ya que están relacionadas con su acceso y/o uso de este Sitio. Su acceso a este Sitio y a cualquier página que éste contenga, implica su conocimiento y aceptación de estas Condiciones de Uso. Las condiciones de uso están sujetas a sufrir cambios en cualquier momento. Este Sitio es propiedad de Softaula , SLU (en adelante la “Compañía”), quien también lo opera y administra.';
+$lang['terms_of_use_general_terms'] = '1. Términos generales';
+$lang['terms_of_use_general_terms_text1'] = 'El material y la información contenidos en este Sitio son proporcionados “como están” y sin garantía de ningún tipo, tanto explícita como implícita. Desconocemos todas las garantías, incluyendo garantías implícitas de comercialización y adaptables para un fin específico. No ofrecemos garantías ni representaciones con respecto al contenido, funcionalidad, enlaces o comunicaciones, incluyendo cualquier representación o garantía relacionada a defectos, errores, o correcciones que allí se encuentren, ruptura o interrupciones de la comunicación o pérdida de datos, o a la ausencia de virus u otros componentes dañinos.';
+$lang['terms_of_use_general_terms_text2'] = 'En ningún caso la Compañía ni ninguna de sus filiales o subsidiarias será responsable por ningún costo o daño (incluyendo daños directos, indirectos, especiales, incidentales o consecuentes) que resultaran de o tuvieran conexión con el acceso o uso, o la imposibilidad de acceder o utilizar este sitio o cualquiera de sus funciones que incluyen o están relacionadas al análisis o descarga de información, datos, textos, imágenes u otro material accesible a través de este Sitio o cualquier sitio vinculado o conectado al mismo.';
+$lang['terms_of_use_general_terms_text3'] = 'La evaluación de la exactitud, integridad, confiabilidad y utilidad de cualquier opinión, servicio u otra información que usted proporcione a través de este Sitio es responsabilidad del usuario del mismo. Toda la información que se encuentra en este Sitio no deberá ser interpretada o confiada como asesoramiento legal, contable, fiscal, financiero, de inversión o cualquier otro tipo de asesoramiento profesional o como asesoramiento sobre hechos o temas específicos. Por lo tanto no nos hacemos responsable del uso o mal uso de tal información. Los usuarios de este Sitio deberán consultar a sus asesores profesionales con respecto a sus circunstancias personales.';
+$lang['terms_of_use_no_offer'] = '2. No existe oferta vinculante';
+$lang['terms_of_use_no_offer_text'] = 'Nada de lo que encuentre en este Sitio podrá ser interpretado como una solicitud, ofrecimiento, consejo, recomendación o cualquier otro servicio para adquirir o para deshacerse de cualquier inversión o transacción o para involucrarse en cualquier inversión o transacción. Si desea información sobre cualquier producto específico y/o país, por favor visite la web respectiva.';
+
+
+$lang['terms_of_use_intellectual_property'] = '3. Propiedad intelectual';
+$lang['terms_of_use_intellectual_property_text'] = 'A menos que se indique lo contrario, toda la información, textos, gráficos y características del diseño o funciones (incluyendo “como se siente y como se ve”) contenidos en este Sitio son propiedad exclusiva de la Compañía y no podrán ser copiados o distribuidos en su totalidad o en parte sin el consentimiento expreso y por escrito de la Compañía.';
+$lang['terms_of_use_intellectual_property_text1'] ='Sin embargo usted podrá descargar o imprimir cualquier página de este Sitio para su uso personal y no-comercial sólo si no elimina el texto sobre los derechos de autor.';
+$lang['terms_of_use_links'] ='4. Enlaces';
+$lang['terms_of_use_links_text'] ='Los enlaces de este Sitio a otros sitios web se proporcionan para su información y conveniencia. La Compañía no asume ningún tipo de responsabilidad en relación a cualquier sitio web vinculado desde este Sitio (o cualquier sitio web que vincule a este Sitio), incluyendo sus contenidos y funcionamiento. La Compañía no revisa o monitorea tales enlaces. Algunos sitios web pueden ser extranjeros y por lo tanto están sujetos a diferentes normas.';
+$lang['terms_of_use_links_text1'] ='Un enlace desde este Sitio hacia otro sitio web (o un enlace desde un sitio web hacia este Sitio) no es una referencia, adhesión, aprobación, publicidad, oferta o pedido con respecto a tal sitio web, su contenido o cualquier producto publicitado o distribuido a través de ese sitio web. La Compañía cree que los enlaces que provee a otros sitios web, páginas, grupos de noticias y otras fuentes de acceso público son legalmente permisibles y consistentes con las expectativas normales de aquellos que utilizan Internet.';
+$lang['terms_of_use_links_text2'] ='Sin el consentimiento escrito de la Compañía ninguna persona puede enlazar con este Sitio, ya sea a su página de inicio o cualquier página interna.';
+$lang['terms_of_use_links_text3'] ='';
+$lang['terms_of_use_monitoring'] ='5. Monitoreo';
+$lang['terms_of_use_monitoring_text'] ='La Compañía no se encuentra obligada a realizar un seguimiento de las contribuciones o transmisiones de este Sitio o a través de éste o de cualquier sitio web que se encuentre enlazado con este Sitio. Sin embargo, la Compañía se reserva el derecho a monitorearlo, incluyendo las salas de chat o sitio web similar.';
+$lang['terms_of_use_monitoring_text1'] ='Usted reconoce que tal información no representa una responsabilidad y que entregar o transmitir tal información no crea ninguna relación confidencial, contractual implícita u otra entre usted y la Compañía.';
+$lang['terms_of_use_user_behavior'] ='6. Comportamiento del usuario';
+$lang['terms_of_use_user_behavior_text'] ='Cuando acceda a este Sitio o haga uso del mismo, usted no podrá:';
+$lang['terms_of_use_user_behavior_text1'] ='Enviar o transmitir información ilícita, amenazante, abusiva, difamatoria, obscena, pornográfica, profana u objetable por cualquier otro motivo, incluyendo sin límites a transmisiones que constituyan o fomenten conductas que constituyan un delito, que produjeran una responsabilidad civil o que violen una ley nacional o internacional, o que transmitan cualquier información o software que contenga un virus, gusano, caballo troyano o cualquier componente que cause daño.';
+$lang['terms_of_use_user_behavior_text2'] ='Interferir con el funcionamiento de este Sitio o restringir o inhibir cualquier otro uso de este Sitio, enviar, publicar, transmitir, reproducir, distribuir o explotar cualquier información, software u otro material obtenido a través de este Sitio con propósitos comerciales sin el previo consentimiento escrito de la Compañía.';
+$lang['terms_of_use_user_behavior_text3'] ='Precaución: cualquier intento por parte de cualquier persona de dañar este Sitio o debilitar su funcionamiento puede resultar una violación de leyes civiles o penales. La Compañía se reserva el derecho de investigar los daños provocados por tal persona con toda la fuerza de la ley.';
+$lang['terms_of_use_applicable_jurisdiction'] ='7. Legislación aplicable y competencia. Restricciones legales locales, actualizaciones, otros';
+$lang['terms_of_use_applicable_jurisdiction_text'] ='Este Sitio y las Condiciones de Uso aquí mencionadas serán interpretadas de acuerdo con las leyes locales para tener efecto y ser utilizadas. La Compañía no puede afirmar que la información, materiales o funciones incluidas están adaptadas para ser usadas en otra jurisdicción donde (debido a la nacionalidad, residencia, ciudadanía, o cualquier otra persona) la publicación o disponibilidad del Sitio y su contenido se contradiga con las leyes o reglamentaciones.';
+$lang['terms_of_use_applicable_jurisdiction_text1'] ='Aquellos que estén sujetos a tales restricciones o prohibiciones no podrán acceder al Sitio. Si así lo hicieren, lo harán por iniciativa propia y serán los únicos responsables del no cumplimiento de las leyes y reglamentaciones locales.';
+$lang['terms_of_use_applicable_jurisdiction_text2'] ='Las Condiciones de Uso que aquí se describen son sujetas a sufrir actualizaciones y cambios en cualquier momento. Asegúrese de chequear estas Condiciones de Uso cada vez que entre y/o haga uso de este Sitio.';
+
+
+
+// Private Policy
+
+$lang['private_policy_title'] = 'POLÍTICA DE PRIVACIDAD DE SOFTAULA';
+$lang['private_policy_text1'] = 'La Compañía adopta las medidas de seguridad razonables para resguardar del acceso y uso no autorizado a toda la información obtenida de visitantes online. También revisa en forma periódica sus medidas de seguridad.';
+$lang['private_policy_text2'] = 'No envíe ninguna información confidencial o privada a la Compañía a través del Sitio. El envío de información confidencial a la Compañía no implica una relación confidencial entre usted y la Compañía. Cualquier información que sea recibida por la Compañía a través del Sitio y que no sea información sobre la identidad personal será considerada no-confidencial. La Compañía utiliza datos sobre la identidad sólo para procesar un pedido sobre su información o para promocionar nuestros productos y servicios.';
+$lang['private_policy_text3'] = 'Si usted envía información a la Compañía a través de este Sitio o cualquier otro medio electrónico, usted le está cediendo a la Compañía la licencia irrevocable e ilimitada de usar, reproducir, modificar, distribuir y utilizar tal información. La Compañía está autorizada a utilizar libre de cargo y con cualquier propósito toda la información, incluyendo el know-how, técnicas o ideas que allí se encuentren.';
+

@@ -1,0 +1,1 @@
+<p><?php echo $this->lang->line('campus_welcome_s_msg'); ?></p>

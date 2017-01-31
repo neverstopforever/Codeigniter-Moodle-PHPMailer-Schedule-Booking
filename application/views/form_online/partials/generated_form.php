@@ -1,0 +1,1 @@
+<?php echo isset($generated_form) ? $generated_form : ""; ?>

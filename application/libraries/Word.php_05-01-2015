@@ -1,0 +1,18 @@
+<?php
+
+/**
+ * Created by IntelliJ IDEA.
+ * User: qasim
+ * Date: 11/29/15
+ * Time: 12:37 PM
+ */
+
+require_once APPPATH."/third_party/PhpWord/PhpWord.php";
+
+
+class Word extends \PhpOffice\PhpWord\PhpWord {
+    public function __construct()
+    {
+        parent::__construct();
+    }
+}
